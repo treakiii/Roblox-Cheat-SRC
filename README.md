@@ -84,8 +84,8 @@ If you are interested in **defensive security**, this project can also help you 
 ### Building
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/roblox-cheat-template.git
-cd roblox-cheat-template
+git clone https://github.com/treakiii/Roblox-Cheat-SRC.git
+cd Roblox-Cheat-SRC
 ```
 
 1. Open the `.sln` file
@@ -164,3 +164,4 @@ If your goal is to exploit players or break platform rules — **this project is
 ---
 
 > "Learn how systems work. Build better software."
+
